@@ -1,0 +1,8 @@
+# @package _global_
+defaults:
+  - _self_
+
+base_mimic: "/fsx/hyperpod-input-datasets/AROA6GBMFKRI2VWQAUGYI:Amrin.Kareem@mbzuai.ac.ae/mimic-iv-abdominal-pathologies-1.1/mimic-iv-ext-clinical/"
+base_models: 
+lab_test_mapping_path: "/fsx/hyperpod-input-datasets/AROA6GBMFKRI2VWQAUGYI:Amrin.Kareem@mbzuai.ac.ae/mimic-iv-abdominal-pathologies-1.1/mimic-iv-ext-clinical/lab_test_mapping.pkl"
+local_logging_dir: "/fsx/hyperpod-input-datasets/AROA6GBMFKRI2VWQAUGYI:Amrin.Kareem@mbzuai.ac.ae/mimic-iv-abdominal-pathologies-1.1/mimic-iv-ext-clinical/logs/"
