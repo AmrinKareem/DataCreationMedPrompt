@@ -1,3 +1,8 @@
+# My changes
+
+To create a new dataset, change the new.py code. All instructions are found there. 
+
+
 # MIMIC Clinical Decision Making Framework
 
 This repository contains the code for running the clinical decision making task using the MIMIC CDM dataset.
